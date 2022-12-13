@@ -1,4 +1,5 @@
-<li><b>Name:</b> SArah Komara Portfolio Page</li>
+READ ME
+<li><b>Name:</b> Sarah Komara Portfolio Repository</li>
 <li><b>Description:</b> This is my first project in the MIT XPro Professional Certificate in Coding course.</li>
 <li><b>Installation:</b> Browser: Chrome, Firefox, Safari </li>
 <li><b>Usage:</b> Check back here to see the progress I am making on my coding adventure!</li>
